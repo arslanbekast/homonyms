@@ -1,2 +1,2 @@
-# homonyms
+# Homonyms
 Script for collecting homonyms
