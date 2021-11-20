@@ -240,8 +240,6 @@ if __name__ == '__main__':
 	    homonyms_doc.add_paragraph()	
 	homonyms_doc.save('homonyms.docx')
     
-
-
 	# Расчет времени
 	end = time.time()
 	t = end-begin
